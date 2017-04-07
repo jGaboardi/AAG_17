@@ -1,0 +1,179 @@
+HumanGeography
+QuantitativeGeography
+Access 
+Services
+Euclidean
+Calculation 
+TopologicalObject 
+Computation
+Creation
+Artificial
+Connector
+Centroid
+Representation
+Attribution 
+Allocation
+LocationAllocation
+Neighborhood 
+Population
+Tract 
+BlockGroup
+Block
+Microdata Microdata Microdata Microdata
+GeometricPrimitives
+Point
+Polygon
+Polyline 
+SpatialResearch
+SpatialSciences
+DecisionScience DecisionScience
+SpatialOptimization SpatialOptimization SpatialOptimization SpatialOptimization SpatialOptimization
+Uncertainty
+Error
+Quantification
+Assumption
+StressTest
+Empirical
+Location
+Domicile
+Development
+Function 
+FacilityLocation
+NetworkDecisions
+Analysis 
+Accuracy
+Efficiency
+Equitability
+HighPerformanceComputing
+IPython IPython IPython IPython
+Jupyter Jupyter 
+OpenSource OpenSource OpenSource
+SpatialDistributions 
+Network Network Network Network Network
+GIS GIS GIS
+Routing
+TravelingSalesPerson
+Connectivity
+GIScience GIScience GIScience GIScience 
+Optimization Optimization Optimization Optimization 
+Python
+PySAL
+Dask
+Pandas
+GeoPandas
+Gurobi
+SciPy
+NumPy
+Anaconda
+CoinOR
+Topology Topology Topology Topology 
+Simulation
+Automation
+DiscreteLocation DiscreteLocation DiscreteLocation DiscreteLocation
+Dijkstra Dijkstra Dijkstra
+ShortestPath
+Algorithm Algorithm Algorithm Algorithm
+Geometry
+Heuristic
+MAUP
+CoSP
+Scale
+TransportationProblem TransportationProblem TransportationProblem TransportationProblem 
+LinearProgramming LinearProgramming LinearProgramming LinearProgramming LinearProgramming
+MathematicalProgramming
+ObjectOriented
+Coverage
+Median
+Maxian
+SCLP
+MCLP
+pMedian
+pCenter
+pDispersion
+pMaxian
+pCentDian
+SpatialAnalytics
+PredictiveModeling
+Constraint
+ObjectiveFunction
+Variables
+BranchAndBound
+PrimalSimplex
+DualSimplex
+Feasible
+Optimal
+Relaxation
+NetworkSpace
+Geography
+Space
+GeoScience
+SpatialModeling
+Graph
+Tree
+Queue
+Logic
+Regionalization
+Tobler's1stLaw
+R
+Julia
+GIS-T
+Tour
+SubTour
+Path
+Node
+Link
+Vertex
+Edge
+Arc
+Coordinate
+Archimedes
+KoenigsbergBridgeProblem
+LeonhardEuler
+CPU
+GPU
+ParalellProcessing
+NPHard
+NPComplete
+PolynomialTime
+EdgeEffects
+Voronoi
+Delauney
+CRS
+Projection
+Matrix Matrix Matrix Matrix
+GeoDa GeoDa
+QGIS QGIS
+SetTheory
+TimeComplexity
+GenerateAndTest
+BruteForce
+ComputerScience
+ComputationalSocialScience
+OperationsResearch
+Optima
+GeorgeBDantzig
+GraphTheory
+NetworkFlow
+DataScience
+Reproducibility
+Data
+Vector
+Partition
+DataStructure
+FuzzySet
+ObjectiveValue
+Contiguity
+Catchment
+Containment
+Intersection
+WeightedCosts
+Capacity
+Scripting
+Shapefile
+Dataframe
+Clustering
+BalancedMedian
+Transshipment
+pRegions
+
+

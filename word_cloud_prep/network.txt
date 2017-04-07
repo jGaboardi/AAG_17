@@ -1,0 +1,394 @@
+NetworkTheory NetworkTheory NetworkTheory NetworkTheory NetworkTheory NetworkTheory NetworkTheory NetworkTheory
+Network Network Network Network Network Network Network Network Network Network Network Network Network Network Network
+Graph Graph Graph Graph Graph Graph Graph Graph Graph Graph Graph Graph Graph Graph Graph Graph
+Node Node Node Node Node Node Node Node Node Node Node Node Node Node Node Node Node Node Node Node
+Vertex Vertex Vertex Vertex Vertex Vertex Vertex Vertex Vertex Vertex Vertex Vertex Vertex Vertex Vertex Vertex
+Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc
+Link Link Link Link Link Link Link Link Link Link Link Link Link Link Link 
+Edge Edge Edge Edge Edge Edge Edge Edge Edge Edge Edge Edge Edge Edge Edge 
+Allocation Allocation Allocation Allocation Allocation Allocation Allocation Allocation Allocation 
+Matrix Matrix Matrix Matrix Matrix Matrix Matrix Matrix Matrix Matrix Matrix Matrix Matrix
+SpatialOptimization SpatialOptimization SpatialOptimization SpatialOptimization 
+SpatialOptimization SpatialOptimization SpatialOptimization SpatialOptimization 
+GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS
+Location Location Location Location Location Location Location Location Location Location Location Location
+
+NetworkTheory NetworkTheory NetworkTheory NetworkTheory NetworkTheory NetworkTheory NetworkTheory NetworkTheory
+Network Network Network Network Network Network Network Network Network Network Network Network Network Network Network
+Graph Graph Graph Graph Graph Graph Graph Graph Graph Graph Graph Graph Graph Graph Graph Graph
+Node Node Node Node Node Node Node Node Node Node Node Node Node Node Node Node Node Node Node Node
+Vertex Vertex Vertex Vertex Vertex Vertex Vertex Vertex Vertex Vertex Vertex Vertex Vertex Vertex Vertex Vertex
+Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc
+Link Link Link Link Link Link Link Link Link Link Link Link Link Link Link 
+Edge Edge Edge Edge Edge Edge Edge Edge Edge Edge Edge Edge Edge Edge Edge 
+Allocation Allocation Allocation Allocation Allocation Allocation Allocation Allocation Allocation 
+Matrix Matrix Matrix Matrix Matrix Matrix Matrix Matrix Matrix Matrix Matrix Matrix Matrix
+SpatialOptimization SpatialOptimization SpatialOptimization SpatialOptimization 
+SpatialOptimization SpatialOptimization SpatialOptimization SpatialOptimization 
+GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS
+Location Location Location Location Location Location Location Location Location Location Location Location
+
+NetworkTheory NetworkTheory NetworkTheory NetworkTheory NetworkTheory NetworkTheory NetworkTheory NetworkTheory
+Network Network Network Network Network Network Network Network Network Network Network Network Network Network Network
+Graph Graph Graph Graph Graph Graph Graph Graph Graph Graph Graph Graph Graph Graph Graph Graph
+Node Node Node Node Node Node Node Node Node Node Node Node Node Node Node Node Node Node Node Node
+Vertex Vertex Vertex Vertex Vertex Vertex Vertex Vertex Vertex Vertex Vertex Vertex Vertex Vertex Vertex Vertex
+Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc Arc
+Link Link Link Link Link Link Link Link Link Link Link Link Link Link Link 
+Edge Edge Edge Edge Edge Edge Edge Edge Edge Edge Edge Edge Edge Edge Edge 
+Allocation Allocation Allocation Allocation Allocation Allocation Allocation Allocation Allocation 
+Matrix Matrix Matrix Matrix Matrix Matrix Matrix Matrix Matrix Matrix Matrix Matrix Matrix
+SpatialOptimization SpatialOptimization SpatialOptimization SpatialOptimization 
+SpatialOptimization SpatialOptimization SpatialOptimization SpatialOptimization 
+GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS GIS
+Location Location Location Location Location Location Location Location Location Location Location Location
+
+
+
+
+
+
+
+
+Network theory is the study of graphs as a representation of either symmetric relations or, more generally, of asymmetric relations between discrete objects. In computer science and network science, network theory is a part of graph theory: a network can be defined as a graph in which nodes and/or edges have attributes (e.g. names).
+
+Network theory has applications in many disciplines including statistical physics, particle physics, computer science, electrical engineering, biology,[1] economics, finance, operations research, climatology and sociology. Applications of network theory include logistical networks, the World Wide Web, Internet, gene regulatory networks, metabolic networks, social networks, epistemological networks, etc.; see List of network theory topics for more examples.
+
+Euler's solution of the Seven Bridges of Königsberg problem is considered to be the first true proof in the theory of networks.[2]
+
+Contents  [hide] 
+1	Network optimization
+2	Network analysis
+2.1	Social network analysis
+2.2	Biological network analysis
+2.3	Narrative network analysis
+2.4	Link analysis
+2.4.1	Network robustness
+2.4.2	Web link analysis
+2.5	Centrality measures
+2.6	Assortative and disassortative mixing
+2.7	Recurrence networks
+3	Spread
+4	Interdependent networks
+5	Implementations
+6	See 
+7	References
+8	Books
+9	External links
+Network optimization[]
+Network problems that involve finding an optimal way of doing something are studied under the name combinatorial optimization. Examples include network flow, shortest path problem, transport problem, transshipment problem, location problem, matching problem, assignment problem, packing problem, routing problem, Critical Path Analysis and PERT (Program Evaluation & Review Technique).
+
+Network analysis[]
+Social network analysis[]
+
+Visualization of social network analysis.[3]
+Social network analysis examines the structure of relationships between social entities.[4] These entities are often persons, but may  be groups, organizations, nation states, web sites, or scholarly publications.
+
+Since the 1970s, the empirical study of networks has played a central role in social science, and many of the mathematical and statistical tools  for studying networks have been first developed in sociology.[5] Amongst many other applications, social network analysis has been  to understand the diffusion of innovations, news and rumors. Similarly, it has been  to examine the spread of both diseases and health-related behaviors. It has  been applied to the study of markets, where it has been  to examine the role of trust[citation needed] in exchange relationships and of social mechanisms in setting prices. Similarly, it has been  to study recruitment into political movements and social organizations. It has  been  to conceptualize scientific disagreements as well as academic prestige. More recently, network analysis (and its close cousin traffic analysis) has gained a significant  in military intelligence, for uncovering insurgent networks of both hierarchical and leaderless nature.[citation needed]
+
+Biological network analysis[]
+With the recent explosion of publicly available high throughput biological data, the analysis of molecular networks has gained significant interest.[6] The type of analysis in this context is closely related to social network analysis, but often foc on local patterns in the network. For example, network motifs are small subgraphs that are over-represented in the network. Similarly, activity motifs are patterns in the attributes of nodes and edges in the network that are over-represented  the network structure. The analysis of biological networks with respect to diseases has led to the development of the field of network medicine.[7] Recent examples of application of network theory in biology include applications to understanding Cell Cycle.[8] The interactions between physiological systems like brain, heart, eyes, etc. can be regarded as a physiological network.[9]
+
+Narrative network analysis[]
+
+Narrative network of US Elections 2012[10]
+The automatic parsing of textual corpora has enabled the extraction of actors and their relational networks on a vast scale. The resulting networks, which can contain thousands of nodes, are then analysed by  tools from Network theory to identify the key actors, the key communities or parties, and general properties such as robustness or structural stability of the overall network, or centrality of certain nodes.[11] This automates the approach introduced by Quantitative Narrative Analysis,[12] whereby subject-verb-object triplets are identified with pairs of actors linked by an action, or pairs formed by actor-object.[10]
+
+Link analysis[]
+Link analysis is a subset of network analysis, exploring associations between objects. An example may be examining the addresses of suspects and victims, the telephone numbers they have dialed and financial transactions that they have partaken in during a  timeframe, and the familial relationships between these subjects as a part of police investigation. Link analysis here provides the crucial relationships and associations between very many objects of different types that are not apparent from isolated pieces of information. Computer-assisted or fully automatic computer-based link analysis is increasingly employed by banks and insurance agencies in fraud detection, by telecommunication operators in telecommunication network analysis, by medical sector in epidemiology and pharmacology, in law enforcement investigations, by search engines for relevance rating (and conversely by the spammers for spamdexing and by business owners for search engine optimization), and everywhere else where relationships between many objects have to be analyzed. Links are  derived from similarity of time behavior in both nodes. Examples include climate networks where the links between two locations (nodes) are determined for example, by the similarity of the rainfall or temperature fluctuations in both sites.[13][14][15]
+
+Network robustness[]
+The structural robustness of networks is studied  percolation theory.[16] When a critical fraction of nodes (or links) is removed the network becomes fragmented into small disconnected clusters. This phenomenon is called percolation,[17] and it represents an order-disorder type of phase transition with critical exponents. Percolation theory can predict the size of the largest component (called giant component), the critical threshold and the critical exponents.
+
+Web link analysis[]
+Several Web search ranking algorithms  link-based centrality metrics, including Google's PageRank, Kleinberg's HITS algorithm, the CheiRank and TrustRank algorithms. Link analysis is  conducted in information science and communication science in order to understand and extract information from the structure of collections of web pages. For example, the analysis might be of the interlinking between politicians' web sites or blogs. Another  is for classifying pages according to their mention in other pages.[18]
+
+Centrality measures[]
+Information about the relative importance of nodes and edges in a graph can be obtained through centrality measures, widely  in disciplines like sociology. For example, eigenvector centrality s the eigenvectors of the adjacency matrix corresponding to a network, to determine nodes that tend to be frequently visited. Formally established measures of centrality are degree centrality, closeness centrality, betweenness centrality, eigenvector centrality, subgraph centrality and Katz centrality. The purpose or objective of analysis generally determines the type of centrality measure to be . For example, if one is interested in dynamics on networks or the robustness of a network to node/link removal, often the dynamical importance[19] of a node is the most relevant centrality measure.For a centrality measure based on k-core analysis see ref.[20]
+
+Assortative and disassortative mixing[]
+These concepts were made beca of the nature of hubs in a network. Hubs are nodes which have lots of links. If we see one link in the hub, there is no difference between the hubs, however, some differences are exited between those nodes; some hubs tend to link to the other nodes and other hubs avoid connecting to the other nodes. We say a hub is assortative when it tends to connect to the other hubs. A dissortative hub avoids connecting to other hubs. If some nodes have some connections with the expected random probabilities, the hubs are neutral. There are three methods to quantify degree correlations.
+
+Recurrence networks[]
+The recurrence matrix of a recurrence plot can be considered as the adjacency matrix of an undirected and unweighted network. This allows to analysis time series by network measures. Applications range from detection of regime changes over characterizing dynamics to synchronization analysis.[21][22][23]
+
+Spread[]
+Content in a complex network can spread via two major methods: conserved spread and non-conserved spread.[24] In conserved spread, the total amount of content that enters a complex network remains constant as it passes through. The model of conserved spread can best be represented by a pitcher containing a fixed amount of water being poured into a series of funnels connected by tubes . Here, the pitcher represents the original source and the water is the content being spread. The funnels and connecting tubing represent the nodes and the connections between nodes, respectively. As the water passes from one funnel into another, the water disappears instantly from the funnel that was previously exposed to the water. In non-conserved spread, the amount of content changes as it enters and passes through a complex network. The model of non-conserved spread can best be represented by a continuously running faucet running through a series of funnels connected by tubes. Here, the amount of water from the original source is infinite. , any funnels that have been exposed to the water continue to experience the water even as it passes into successive funnels. The non-conserved model is the most suitable for explaining the transmission of most infectious diseases, neural excitation, information and rumors, etc.
+
+Interdependent networks[]
+Interdependent networks is a system of coupled networks where nodes of one or more networks depend on nodes in other networks. Such dependencies are enhanced by the developments in modern technology. Dependencies may lead to cascading failures between the networks and a relatively small failure can lead to a catastrophic breakdown of the system. Blackouts are a fascinating demonstration of the important role played by the dependencies between networks. A recent study developed a framework to study the cascading failures in an interdependent networks system.[25][26]
+
+Implementations[]
+igraph, an open source C library for the analysis of large-scale complex networks, with interfaces to R, Python and Ruby.
+Graph-tool and NetworkX, free and efficient Python modules for manipulation and statistical analysis of networks.[27][28]
+Orange, an open-source data mining software suite with its Network add-on.
+Pajek, program for (large) network analysis and visualization.
+Tulip, a free data mining and visualization software dedicated to the analysis and visualization of relational data.[29]
+SEMOSS, an RDF-based open source context-aware analytics tool written in Java leveraging the SPARQL query language.
+GraphStream is a Java library for the modeling and analysis of dynamic graphs. You can generate, import, export, measure, layout and visualize them.
+
+
+A geographic information system (or GIS) is a system designed to capture, store, manipulate, analyze, manage, and present spatial or geographic data. The acronym GIS is sometimes  for geographic information science (GIScience) to refer to the academic discipline that studies geographic information systems and is a large domain within the broader academic discipline of geoinformatics.[1] What goes beyond a GIS is a spatial data infrastructure, a concept that has no such restrictive boundaries.
+
+In general, the term describes any information system that integrates, stores, s, analyzes, shares, and displays geographic information. GIS applications are tools that allow rs to create interactive queries (r-created searches), analyze spatial information,  data in maps, and present the results of all these operations.[2][3] Geographic information science is the science underlying geographic concepts, applications, and systems.[4]
+
+GIS is a broad term that can refer to a number of different technologies, processes, and methods. It is attached to many operations and has many applications related to engineering, planning, management, transport/logistics, insurance, telecommunications, and business.[3] For that reason, GIS and location intelligence applications can be the foundation for many location-enabled services that rely on analysis and visualization.
+
+GIS can relate unrelated information by  location as the key index variable. Locations or extents in the Earth space–time may be recorded as dates/times of occurrence, and x, y, and z coordinates representing, longitude, latitude, and elevation, respectively. All Earth-based spatial–temporal location and extent references should be relatable to one another and ultimately to a "real" physical location or extent. This key characteristic of GIS has begun to open new avenues of scientific inquiry.
+
+Contents  [hide] 
+1	History of development
+2	GIS techniques and technology
+2.1	Relating information from different sources
+2.2	GIS uncertainties
+2.3	Data representation
+2.4	Data capture
+2.5	Raster-to-vector translation
+2.6	Projections, coordinate systems, and registration
+3	Spatial analysis with geographical information system (GIS)
+3.1	Slope and aspect
+3.2	Data analysis
+3.3	Topological modeling
+3.4	Geometric networks
+3.5	Hydrological modeling
+3.6	Cartographic modeling
+3.7	Map overlay
+3.8	Geostatistics
+3.9	Address geocoding
+3.10	Reverse geocoding
+3.11	Multi-criteria decision analysis
+3.12	Data output and cartography
+3.13	Graphic display techniques
+3.14	Spatial ETL
+3.15	GIS data mining
+4	Applications
+4.1	Open Geospatial Consortium standards
+4.2	Web mapping
+4.3	Adding the dimension of time
+5	Semantics
+6	Implications of GIS in society
+7	See 
+8	References
+9	Further reading
+History of development[]
+The first known  of the term "geographic information system" was by Roger Tomlinson in the year 1968 in his paper "A Geographic Information System for Regional Planning".[5] Tomlinson is  acknowledged as the "father of GIS".[6]
+
+
+E. W. Gilbert's version (1958) of John Snow's 1855 map of the Soho cholera outbreak showing the clusters of cholera cases in the London epidemic of 1854
+Previously, one of the first applications of spatial analysis in epidemiology is the 1832 "Rapport sur la marche et les effets du choléra dans Paris et le département de la Seine".[7] The French geographer Charles Picquet represented the 48 districts of the city of Paris by halftone color gradient according to the number of deaths by cholera per 1,000 inhabitants. In 1854 John Snow determined the source of a cholera outbreak in London by marking points on a map depicting where the cholera victims lived, and connecting the cluster that he found with a nearby water source. This was one of the earliest successful s of a geographic methodology in epidemiology. While the basic elements of topography and theme existed previously in cartography, the John Snow map was unique,  cartographic methods not only to depict but  to analyze clusters of geographically dependent phenomena.
+
+The early 20th century saw the development of photozincography, which allowed maps to be split into layers, for example one layer for vegetation and another for water. This was particularly  for printing contours – drawing these was a labour-intensive task but having them on a separate layer meant they could be worked on without the other layers to conf the draughtsman. This work was originally drawn on glass plates but later plastic film was introduced, with the advantages of being lighter,  less storage space and being less brittle, among others. When all the layers were finished, they were combined into one image  a large process camera. Once color printing came in, the layers idea was   for creating separate printing plates for each color. While the  of layers much later became one of the main typical features of a contemporary GIS, the photographic process just described is not considered to be a GIS in itself – as the maps were just images with no database to link them to.
+
+Computer hardware development spurred by nuclear weapon research led to general-purpose computer "mapping" applications by the early 1960s.[8]
+
+The year 1960 saw the development of the world's first true operational GIS in Ottawa, Ontario, Canada by the federal Department of Forestry and Rural Development. Developed by Dr. Roger Tomlinson, it was called the Canada Geographic Information System (CGIS) and was  to store, analyze, and manipulate data collected for the Canada Land Inventory – an effort to determine the land capability for rural Canada by mapping information about soils, agriculture, recreation, wildlife, waterfowl, forestry and land  at a scale of 1:50,000. A rating classification factor was  added to permit analysis.
+
+CGIS was an improvement over "computer mapping" applications as it provided capabilities for overlay, measurement, and digitizing/scanning. It supported a national coordinate system that spanned the continent, coded lines as arcs having a true embedded topology and it stored the attribute and locational information in separate files. As a result of this, Tomlinson has become known as the "father of GIS", particularly for his  of overlays in promoting the spatial analysis of convergent geographic data.[9]
+
+CGIS lasted into the 1990s and built a large digital land resource database in Canada. It was developed as a mainframe-based system in support of federal and provincial resource planning and management. Its strength was continent-wide analysis of complex datasets. The CGIS was never available commercially.
+
+In 1964 Howard T. Fisher formed the Laboratory for Computer Graphics and Spatial Analysis at the Harvard Graduate School of Design (LCGSA 1965–1991), where a number of important theoretical concepts in spatial data handling were developed, and which by the 1970s had distributed seminal software code and systems, such as SYMAP, GRID, and ODYSSEY – that served as sources for subsequent commercial development—to universities, research centers and corporations worldwide.[10]
+
+By the late 1970s two public domain GIS systems (MOSS and GRASS GIS) were in development, and by the early 1980s, M&S Computing (later Intergraph) along with Bentley Systems Incorporated for the CAD platform, Environmental Systems Research Institute (ESRI), CARIS (Computer Aided Resource Information System), MapInfo Corporation and ERDAS (Earth Resource Data Analysis System) emerged as commercial vendors of GIS software, successfully incorporating many of the CGIS features, combining the first generation approach to separation of spatial and attribute information with a second generation approach to organizing attribute data into database structures.[11]
+
+In 1986, Mapping Display and Analysis System (MIDAS), the first desktop GIS product[citation needed] was released for the DOS operating system. This was renamed in 1990 to MapInfo for Windows when it was ported to the Microsoft Windows platform. This began the process of moving GIS from the research department into the business environment.
+
+By the end of the 20th century, the rapid growth in various systems had been consolidated and standardized on relatively few platforms and rs were beginning to explore viewing GIS data over the Internet, requiring data format and transfer standards. More recently, a growing number of free, open-source GIS packages run on a range of operating systems and can be customized to perform specific tasks. Increasingly geospatial data and mapping applications are being made available via the world wide web.[12]
+
+Several articles on the history of GIS have been published.[13][14]
+
+GIS techniques and technology[]
+Modern GIS technologies  digital information, for which various digitized data creation methods are . The most common method of data creation is digitization, where a hard copy map or survey plan is transferred into a digital medium through the  of a CAD program, and geo-referencing capabilities. With the wide availability of ortho-rectified imagery (from satellites, aircraft, Helikites and UAVs), heads-up digitizing is becoming the main avenue through which geographic data is extracted. Heads-up digitizing involves the tracing of geographic data directly on top of the aerial imagery instead of by the traditional method of tracing the geographic form on a separate digitizing tablet (heads-down digitizing).[clarification needed]
+
+Relating information from different sources[]
+GIS s spatio-temporal (space-time) location as the key index variable for all other information. Just as a relational database containing text or numbers can relate many different tables  common key index variables, GIS can relate otherwise unrelated information by  location as the key index variable. The key is the location and/or extent in space-time.
+
+Any variable that can be located spatially, and increasingly  temporally, can be referenced  a GIS. Locations or extents in Earth space–time may be recorded as dates/times of occurrence, and x, y, and z coordinates representing, longitude, latitude, and elevation, respectively. These GIS coordinates may represent other quantified systems of temporo-spatial reference (for example, film frame number, stream gage station, highway mile-marker, surveyor benchmark, building address, street intersection, entrance gate, water depth sounding, POS or CAD drawing origin/units). Units applied to recorded temporal-spatial data can vary widely (even when  exactly the same data, see map projections), but all Earth-based spatial–temporal location and extent references should, ideally, be relatable to one another and ultimately to a "real" physical location or extent in space–time.
+
+Related by accurate spatial information, an incredible variety of real-world and projected past or future data can be analyzed, interpreted and represented.[15] This key characteristic of GIS has begun to open new avenues of scientific inquiry into behaviors and patterns of real-world information that previously had not been systematically correlated.
+
+GIS uncertainties[]
+GIS accuracy depends upon source data, and how it is encoded to be data referenced. Land surveyors have been able to provide a high level of positional accuracy utilizing the GPS-derived positions.[16] High-resolution digital terrain and aerial imagery,[17] powerful computers and Web technology are changing the quality, utility, and expectations of GIS to serve society on a grand scale, but nevertheless there are other source data that affect overall GIS accuracy like paper maps, though these may be of limited  in achieving the desired accuracy.
+
+In developing a digital topographic database for a GIS, topographical maps are the main source, and aerial photography and satellite imagery are extra sources for collecting data and identifying attributes which can be mapped in layers over a location facsimile of scale. The scale of a map and geographical rendering area representation type[clarification needed] are very important aspects since the information content depends mainly on the scale set and resulting locatability of the map's representations. In order to digitize a map, the map has to be checked within theoretical dimensions, then scanned into a raster format, and resulting raster data has to be  a theoretical dimension by a rubber sheeting/warping technology process.
+
+A quantitative analysis of maps brings accuracy issues into focus. The electronic and other equipment  to make measurements for GIS is far more precise than the machines of conventional map analysis. All geographical data are inherently inaccurate, and these inaccuracies will propagate through GIS operations in ways that are difficult to predict.
+
+Data representation[]
+Main article: GIS file formats
+GIS data represents real objects (such as roads, land , elevation, trees, waterways, etc.) with digital data determining the mix. Real objects can be divided into two abstractions: discrete objects (e.g., a ho) and continuous fields (such as rainfall amount, or elevations). Traditionally, there are two broad methods  to store data in a GIS for both kinds of abstractions mapping references: raster images and vector. Points, lines, and polygons are the stuff of mapped location attribute references. A new hybrid method of storing data is that of identifying point clouds, which combine three-dimensional points with RGB information at each point, returning a "3D color image". GIS thematic maps then are becoming more and more realistically visually descriptive of what they set out to show or determine.
+
+For a list of popular GIS file formats, such as shapefiles, see GIS file formats § Popular GIS file formats.
+
+Data capture[]
+
+Example of hardware for mapping (GPS and laser rangefinder) and data collection (rugged computer). The current trend for geographical information system (GIS) is that accurate mapping and data analysis are completed while in the field. Depicted hardware (field-map technology) is  mainly for forest inventories, monitoring and mapping.
+Data capture—entering information into the system—consumes much of the time of GIS practitioners. There are a variety of methods  to enter data into a GIS where it is stored in a digital format.
+
+Existing data printed on paper or PET film maps can be digitized or scanned to produce digital data. A digitizer produces vector data as an operator traces points, lines, and polygon boundaries from a map. Scanning a map results in raster data that could be further processed to produce vector data.
+
+Survey data can be directly entered into a GIS from digital data collection systems on survey instruments  a technique called coordinate geometry (COGO). Positions from a global navigation satellite system (GNSS) like Global Positioning System can  be collected and then imported into a GIS. A current trend in data collection gives rs the ability to utilize field computers with the ability to  live data  wireless connections or disconnected ing sessions. This has been enhanced by the availability of low-cost mapping-grade GPS units with decimeter accuracy in real time. This eliminates the need to post process, import, and update the data in the office after fieldwork has been collected. This includes the ability to incorporate positions collected  a laser rangefinder. New technologies  allow rs to create maps as well as analysis directly in the field, making projects more efficient and mapping more accurate.
+
+Remotely sensed data  plays an important role in data collection and consist of sensors attached to a platform. Sensors include cameras, digital scanners and lidar, while platforms usually consist of aircraft and satellites. In England in the mid 1990s, hybrid kite/balloons called Helikites first pioneered the  of compact airborne digital cameras as airborne Geo-Information Systems. Aircraft measurement software, accurate to 0.4 mm was  to link the photographs and measure the ground. Helikites are inexpensive and gather more accurate data than aircraft. Helikites can be  over roads, railways and towns where UAVs are banned.
+
+Recently with the development of miniature UAVs, aerial data collection is becoming possible with them. For example, the Aeryon Scout was  to map a 50-acre area with a Ground sample distance of 1 inch (2.54 cm) in only 12 minutes.[18]
+
+The majority of digital data currently comes from photo interpretation of aerial photographs. Soft-copy workstations are  to digitize features directly from stereo pairs of digital photographs. These systems allow data to be captured in two and three dimensions, with elevations measured directly from a stereo pair  principles of photogrammetry. Analog aerial photos must be scanned before being entered into a soft-copy system, for high-quality digital cameras this step is skipped.
+
+Satellite remote sensing provides another important source of spatial data. Here satellites  different sensor packages to passively measure the reflectance from parts of the electromagnetic spectrum or radio waves that were sent out from an active sensor such as radar. Remote sensing collects raster data that can be further processed  different bands to identify objects and classes of interest, such as land cover.
+
+When data is captured, the r should consider if the data should be captured with either a relative accuracy or absolute accuracy, since this could not only influence how information will be interpreted but  the cost of data capture.
+
+After entering data into a GIS, the data usually requires ing, to remove errors, or further processing. For vector data it must be made "topologically correct" before it can be  for some advanced analysis. For example, in a road network, lines must connect with nodes at an intersection. Errors such as undershoots and overshoots must  be removed. For scanned maps, blemishes on the source map may need to be removed from the resulting raster. For example, a fleck of dirt might connect two lines that should not be connected.
+
+Raster-to-vector translation[]
+Data restructuring can be performed by a GIS to convert data into different formats. For example, a GIS may be  to convert a satellite image map to a vector structure by generating lines around all cells with the same classification, while determining the cell spatial relationships, such as adjacency or inclusion.
+
+More advanced data processing can occur with image processing, a technique developed in the late 1960s by NASA and the private sector to provide contrast enhancement, false color rendering and a variety of other techniques including  of two dimensional Fourier transforms. Since digital data is collected and stored in various ways, the two data sources may not be entirely compatible. So a GIS must be able to convert geographic data from one structure to another. In so doing, the implicit assumptions behind different ontologies and classifications require analysis.[19] Object ontologies have gained increasing prominence as a consequence of object-oriented programming and sustained work by Barry Smith and co-workers.
+
+Projections, coordinate systems, and registration[]
+Main article: Map projection
+The earth can be represented by various models, each of which may provide a different set of coordinates (e.g., latitude, longitude, elevation) for any  point on the Earth's surface. The simplest model is to assume the earth is a perfect sphere. As more measurements of the earth have accumulated, the models of the earth have become more sophisticated and more accurate. In fact, there are models called datums that apply to different areas of the earth to provide increased accuracy, like NAD83 for U.S. measurements, and the World Geodetic System for worldwide measurements.
+
+Spatial analysis with geographical information system (GIS)[]
+Further information: Spatial analysis
+GIS spatial analysis is a rapidly changing field, and GIS packages are increasingly including analytical tools as standard built-in facilities, as optional toolsets, as add-ins or 'analysts'. In many instances these are provided by the original software suppliers (commercial vendors or collaborative non commercial development teams), while in other cases facilities have been developed and are provided by third parties. Furthermore, many products offer software development kits (SDKs), programming languages and language support, scripting facilities and/or special interfaces for developing one's own analytical tools or variants. The website "Geospatial Analysis" and associated book/ebook attempt to provide a reasonably comprehensive guide to the subject.[20] The increased availability has created a new dimension to business intelligence termed "spatial intelligence" which, when openly delivered via intranet, democratizes access to geographic and social network data. Geospatial intelligence, based on GIS spatial analysis, has  become a key element for security. GIS as a whole can be described as conversion to a vectorial representation or to any other digitisation process.
+
+Slope and aspect[]
+Slope can be defined as the steepness or gradient of a unit of terrain, usually measured as an angle in degrees or as a percentage. Aspect can be defined as the direction in which a unit of terrain faces. Aspect is usually expressed in degrees from north. Slope, aspect, and surface curvature in terrain analysis are all derived from neighborhood operations  elevation values of a cell's adjacent neighbours.[21] Slope is a function of resolution, and the spatial resolution  to calculate slope and aspect should always be specified.[22] Authors such as Skidmore,[23] Jones[24] and Zhou and Liu[25] have compared techniques for calculating slope and aspect.
+
+The following method can be  to derive slope and aspect:
+
+
+The elevation at a point or unit of terrain will have perpendicular tangents (slope) passing through the point, in an east-west and north-south direction. These two tangents give two components, ∂z/∂x and ∂z/∂y, which then be  to determine the overall direction of slope, and the aspect of the slope. The gradient is defined as a vector quantity with components equal to the partial derivatives of the surface in the x and y directions.[26]
+
+The calculation of the overall 3x3 grid slope S and aspect A for methods that determine east-west and north-south component  the following formulas respectively:
+
+tan
+⁡
+
+Data analysis[]
+It is difficult to relate wetlands maps to rainfall amounts recorded at different points such as airports, television stations, and schools. A GIS, however, can be  to depict two- and three-dimensional characteristics of the Earth's surface, subsurface, and atmosphere from information points. For example, a GIS can quickly generate a map with isopleth or contour lines that indicate differing amounts of rainfall. Such a map can be thought of as a rainfall contour map. Many sophisticated methods can estimate the characteristics of surfaces from a limited number of point measurements. A two-dimensional contour map created from the surface modeling of rainfall point measurements may be overlaid and analyzed with any other map in a GIS covering the same area. This GIS derived map can then provide additional information - such as the viability of water power potential as a renewable energy source. Similarly, GIS can be  to compare other renewable energy resources to find the best geographic potential for a region.[27]
+
+Additionally, from a series of three-dimensional points, or digital elevation model, isopleth lines representing elevation contours can be generated, along with slope analysis, shaded relief, and other elevation products. Watersheds can be easily defined for any  reach, by computing all of the areas contiguous and uphill from any  point of interest. Similarly, an expected thalweg of where surface water would want to travel in intermittent and permanent streams can be computed from elevation data in the GIS.
+
+Topological modeling[]
+A GIS can recognize and analyze the spatial relationships that exist within digitally stored spatial data. These topological relationships allow complex spatial modelling and analysis to be performed. Topological relationships between geometric entities traditionally include adjacency (what adjoins what), containment (what encloses what), and proximity (how close something is to something else).
+
+Geometric networks[]
+Geometric networks are linear networks of objects that can be  to represent interconnected features, and to perform special spatial analysis on them. A geometric network is composed of edges, which are connected at junction points, similar to graphs in mathematics and computer science. Just like graphs, networks can have weight and flow assigned to its edges, which can be  to represent various interconnected features more accurately. Geometric networks are often  to model road networks and public utility networks, such as electric, gas, and water networks. Network modeling is  commonly employed in transportation planning, hydrology modeling, and infrastructure modeling.
+
+Hydrological modeling[]
+GIS hydrological models can provide a spatial element that other hydrological models lack, with the analysis of variables such as slope, aspect and watershed or catchment area.[28] Terrain analysis is fundamental to hydrology, since water always flows down a slope.[28] As basic terrain analysis of a digital elevation model (DEM) involves calculation of slope and aspect, DEMs are very ful for hydrological analysis. Slope and aspect can then be  to determine direction of surface runoff, and hence flow accumulation for the formation of streams, rivers and lakes. Areas of divergent flow can  give a clear indication of the boundaries of a catchment. Once a flow direction and accumulation matrix has been created, queries can be performed that show contributing or dispersal areas at a certain point.[28] More detail can be added to the model, such as terrain roughness, vegetation types and soil types, which can influence infiltration and evapotranspiration rates, and hence influencing surface flow. One of the main s of hydrological modeling is in environmental contamination research.
+
+Cartographic modeling[]
+
+An example of  of layers in a GIS application. In this example, the forest-cover layer (light green) is at the bottom, with the topographic layer over it. Next up is the stream layer, then the boundary layer, then the road layer. The order is very important in order to properly display the final result. Note that the pond layer was located just below the stream layer, so that a stream line can be seen overlying one of the ponds.
+Dana Tomlin probably coined the term "cartographic modeling" in his PhD dissertation (1983); he later  it in the title of his book, Geographic Information Systems and Cartographic Modeling (1990).[29] Cartographic modeling refers to a process where several thematic layers of the same area are produced, processed, and analyzed. Tomlin  raster layers, but the overlay method (see below) can be  more generally. Operations on map layers can be combined into algorithms, and eventually into simulation or optimization models.
+
+Map overlay[]
+The combination of several spatial datasets (points, lines, or polygons) creates a new output vector dataset, visually similar to stacking several maps of the same region. These overlays are similar to mathematical Venn diagram overlays. A union overlay combines the geographic features and attribute tables of both inputs into a single new output. An intersect overlay defines the area where both inputs overlap and retains a set of attribute fields for each. A symmetric difference overlay defines an output area that includes the total area of both inputs except for the overlapping area.
+
+Data extraction is a GIS process similar to vector overlay, though it can be  in either vector or raster data analysis. Rather than combining the properties and features of both datasets, data extraction involves  a "clip" or "mask" to extract the features of one data set that fall within the spatial extent of another dataset.
+
+In raster data analysis, the overlay of datasets is accomplished through a process known as "local operation on multiple rasters" or "map algebra," through a function that combines the values of each raster's matrix. This function may weigh some inputs more than others through  of an "index model" that reflects the influence of various factors upon a geographic phenomenon.
+
+Geostatistics[]
+Main article: Geostatistics
+Geostatistics is a branch of statistics that deals with field data, spatial data with a continuous index. It provides methods to model spatial correlation, and predict values at arbitrary locations (interpolation).
+
+When phenomena are measured, the observation methods dictate the accuracy of any subsequent analysis. Due to the nature of the data (e.g. traffic patterns in an urban environment; weather patterns over the Pacific Ocean), a constant or dynamic degree of precision is always lost in the measurement. This loss of precision is determined from the scale and distribution of the data collection.
+
+To determine the statistical relevance of the analysis, an average is determined so that points (gradients) outside of any immediate measurement can be included to determine their predicted behavior. This is due to the limitations of the applied statistic and data collection methods, and interpolation is required to predict the behavior of particles, points, and locations that are not directly measurable.
+
+
+Hillshade model derived from a Digital Elevation Model of the Valestra area in the northern Apennines (Italy)
+Interpolation is the process by which a surface is created, usually a raster dataset, through the input of data collected at a number of sample points. There are several forms of interpolation, each which treats the data differently, depending on the properties of the data set. In comparing interpolation methods, the first consideration should be whether or not the source data will change (exact or approximate). Next is whether the method is subjective, a human interpretation, or objective. Then there is the nature of transitions between points: are they abrupt or gradual. Finally, there is whether a method is global (it s the entire data set to form the model), or local where an algorithm is repeated for a small section of terrain.
+
+Interpolation is a justified measurement beca of a spatial autocorrelation principle that recognizes that data collected at any position will have a great similarity to, or influence of those locations within its immediate vicinity.
+
+Digital elevation models, triangulated irregular networks, edge-finding algorithms, Thiessen polygons, Fourier analysis, (weighted) moving averages, inverse distance weighting, kriging, spline, and trend surface analysis are all mathematical methods to produce interpolative data.
+
+Address geocoding[]
+Main article: Geocoding
+Geocoding is interpolating spatial locations (X,Y coordinates) from street addresses or any other spatially referenced data such as ZIP Codes, parcel lots and address locations. A reference theme is required to geocode individual addresses, such as a road centerline file with address ranges. The individual address locations have historically been interpolated, or estimated, by examining address ranges along a road segment. These are usually provided in the form of a table or database. The software will then place a dot approximately where that address belongs along the segment of centerline. For example, an address point of 500 will be at the midpoint of a line segment that starts with address 1 and ends with address 1,000. Geocoding can  be applied against actual parcel data, typically from municipal tax maps. In this case, the result of the geocoding will be an actually positioned space as opposed to an interpolated point. This approach is being increasingly  to provide more precise location information.
+
+Reverse geocoding[]
+Reverse geocoding is the process of returning an estimated street address number as it relates to a  coordinate. For example, a r can click on a road centerline theme (thus providing a coordinate) and have information returned that reflects the estimated ho number. This ho number is interpolated from a range assigned to that road segment. If the r clicks at the midpoint of a segment that starts with address 1 and ends with 100, the returned value will be somewhere near 50. Note that reverse geocoding does not return actual addresses, only estimates of what should be there based on the predetermined range.
+
+Multi-criteria decision analysis[]
+Coupled with GIS, multi-criteria decision analysis methods support decision-makers in analysing a set of alternative spatial solutions, such as the most likely ecological habitat for restoration, against multiple criteria, such as vegetation cover or roads. MCDA s decision rules to aggregate the criteria, which allows the alternative solutions to be ranked or prioritised.[30] GIS MCDA may reduce costs and time involved in identifying potential restoration sites.
+
+Data output and cartography[]
+Cartography is the design and production of maps, or visual representations of spatial data. The vast majority of modern cartography is done with the help of computers, usually  GIS but production of quality cartography is  achieved by importing layers into a design program to refine it. Most GIS software gives the r substantial control over the appearance of the data.
+
+Cartographic work serves two major functions:
+
+First, it produces graphics on the screen or on paper that convey the results of analysis to the people who make decisions about resources. Wall maps and other graphics can be generated, allowing the viewer to visualize and thereby understand the results of analyses or simulations of potential events. Web Map Servers facilitate distribution of generated maps through web browsers  various implementations of web-based application programming interfaces (AJAX, Java, Flash, etc.).
+
+Second, other database information can be generated for further analysis or . An example would be a list of all addresses within one mile (1.6 km) of a toxic spill.
+
+Graphic display techniques[]
+Traditional maps are abstractions of the real world, a sampling of important elements portrayed on a sheet of paper with symbols to represent physical objects. People who  maps must interpret these symbols. Topographic maps show the shape of land surface with contour lines or with shaded relief.
+
+Today, graphic display techniques such as shading based on altitude in a GIS can make relationships among map elements visible, heightening one's ability to extract and analyze information. For example, two types of data were combined in a GIS to produce a perspective view of a portion of San Mateo County, California.
+
+The digital elevation model, consisting of surface elevations recorded on a 30-meter horizontal grid, shows high elevations as white and low elevation as black.
+The accompanying Landsat Thematic Mapper image shows a false-color infrared image looking down at the same area in 30-meter pixels, or picture elements, for the same coordinate points, pixel by pixel, as the elevation information.
+A GIS was  to register and combine the two images to render the three-dimensional perspective view looking down the San Andreas Fault,  the Thematic Mapper image pixels, but shaded  the elevation of the landforms. The GIS display depends on the viewing point of the observer and time of day of the display, to properly render the shadows created by the sun's rays at that latitude, longitude, and time of day.
+
+An archeochrome is a new way of displaying spatial data. It is a thematic on a 3D map that is applied to a specific building or a part of a building. It is suited to the visual display of heat-loss data.
+
+Spatial ETL[]
+Spatial ETL tools provide the data processing functionality of traditional Extract, Transform, Load (ETL) software, but with a primary focus on the ability to manage spatial data. They provide GIS rs with the ability to translate data between different standards and proprietary formats, whilst geometrically transforming the data en route. These tools can come in the form of add-ins to existing wider-purpose software such as Microsoft Excel.
+
+GIS data mining[]
+GIS or spatial data mining is the application of data mining methods to spatial data. Data mining, which is the partially automated search for hidden patterns in large databases, offers great potential benefits for applied GIS-based decision making. Typical applications include environmental monitoring. A characteristic of such applications is that spatial correlation between data measurements require the  of specialized algorithms for more efficient data analysis.[31]
+
+Applications[]
+The implementation of a GIS is often driven by jurisdictional (such as a city), purpose, or application requirements. Generally, a GIS implementation may be custom-designed for an organization. Hence, a GIS deployment developed for an application, jurisdiction, enterprise, or purpose may not be necessarily interoperable or compatible with a GIS that has been developed for some other application, jurisdiction, enterprise, or purpose.[citation needed]
+
+GIS provides, for every kind of location-based organization, a platform to update geographical data without wasting time to visit the field and update a database manually. GIS when integrated with other powerful enterprise solutions like SAP[32] and the Wolfram Language[33] helps creating powerful decision support system at enterprise level[34].[clarification needed]
+
+
+GeaBios – tiny WMS/WFS client (Flash/DHTML)
+Many disciplines can benefit from GIS technology. An active GIS market has resulted in lower costs and continual improvements in the hardware and software components of GIS, and usage in the fields of science, government, business, and industry, with applications including real estate, public health, crime mapping, national defense, sustainable development, natural resources, climatology,[35][36] landscape architecture, archaeology, regional and community planning, transportation and logistics. GIS is  diverging into location-based services, which allows GPS-enabled mobile devices to display their location in relation to fixed objects (nearest restaurant, gas station, fire hydrant) or mobile objects (friends, children, police car), or to relay their position back to a central server for display or other processing.
+
+Open Geospatial Consortium standards[]
+Main article: Open Geospatial Consortium
+The Open Geospatial Consortium (OGC) is an international industry consortium of 384 companies, government agencies, universities, and individuals participating in a consensus process to develop publicly available geoprocessing specifications. Open interfaces and protocols defined by OpenGIS Specifications support interoperable solutions that "geo-enable" the Web, wireless and location-based services, and mainstream IT, and empower technology developers to make complex spatial information and services accessible and ful with all kinds of applications. Open Geospatial Consortium protocols include Web Map Service, and Web Feature Service.[37]
+
+GIS products are broken down by the OGC into two categories, based on how completely and accurately the software follows the OGC specifications.
+
+
+OGC standards help GIS tools communicate.
+Compliant Products are software products that comply to OGC's OpenGIS Specifications. When a product has been tested and certified as compliant through the OGC Testing Program, the product is automatically registered as "compliant" on this site.
+
+Implementing Products are software products that implement OpenGIS Specifications but have not yet passed a compliance test. Compliance tests are not available for all specifications. Developers can register their products as implementing draft or approved specifications, though OGC reserves the right to review and verify each entry.
+
+Web mapping[]
+Main article: Web mapping
+In recent years there has been an proliferation of free-to- and easily accessible mapping software such as the proprietary web applications Google Maps and Bing Maps, as well as the free and open-source alternative OpenStreetMap. These services give the public access to huge amounts of geographic data.
+
+Some of them, like Google Maps and OpenLayers, expose an API that enable rs to create custom applications. These toolkits commonly offer street maps, aerial/satellite imagery, geocoding, searches, and routing functionality. Web mapping has  uncovered the potential of crowdsourcing geodata in projects like OpenStreetMap, which is a collaborative project to create a free able map of the world.
+
+Adding the dimension of time[]
+See : Time geography
+The condition of the Earth's surface, atmosphere, and subsurface can be examined by feeding satellite data into a GIS. GIS technology gives researchers the ability to examine the variations in Earth processes over days, months, and years. As an example, the changes in vegetation vigor through a growing season can be animated to determine when drought was most extensive in a particular region. The resulting graphic represents a rough measure of plant health. Working with two variables over time would then allow researchers to detect regional differences in the lag between a decline in rainfall and its effect on vegetation.
+
+GIS technology and the availability of digital data on regional and global scales enable such analyses. The satellite sensor output  to generate a vegetation graphic is produced for example by the Advanced Very High Resolution Radiometer (AVHRR). This sensor system detects the amounts of energy reflected from the Earth's surface across various bands of the spectrum for surface areas of about 1 square kilometer. The satellite sensor produces images of a particular location on the Earth twice a day. AVHRR and more recently the Moderate-Resolution Imaging Spectroradiometer (MODIS) are only two of many sensor systems  for Earth surface analysis. More sensors will follow, generating ever greater amounts of data.
+
+In addition to the integration of time in environmental studies, GIS is  being explored for its ability to track and model the progress of humans throughout their daily routines. A concrete example of progress in this area is the recent release of time-specific population data by the U.S. Census. In this data set, the populations of cities are shown for daytime and evening hours highlighting the pattern of concentration and dispersion generated by North American commuting patterns. The manipulation and generation of data required to produce this data would not have been possible without GIS.
+
+ models to project the data held by a GIS forward in time have enabled planners to test policy decisions  spatial decision support systems.
+
+Semantics[]
+Tools and technologies emerging from the W3C's Data Activity are proving ful for data integration problems in information systems. Correspondingly, such technologies have been proposed as a means to facilitate interoperability and data re among GIS applications.[38][39] and  to enable new analysis mechanisms.[40]
+
+Ontologies are a key component of this semantic approach as they allow a formal, machine-readable specification of the concepts and relationships in a  domain. This in turn allows a GIS to focus on the intended meaning of data rather than its syntax or structure. For example, reasoning that a land cover type classified as deciduous needleleaf trees in one dataset is a specialization or subset of land cover type forest in another more roughly classified dataset can help a GIS automatically merge the two datasets under the more general land cover classification. Tentative ontologies have been developed in areas related to GIS applications, for example the hydrology ontology[41] developed by the Ordnance Survey in the United Kingdom and the SWEET ontologies[42] developed by NASA's Jet Propulsion Laboratory. , simpler ontologies and semantic metadata standards are being proposed by the W3C Geo Incubator Group[43] to represent geospatial data on the web. GeoSPARQL is a standard developed by the Ordnance Survey, United States Geological Survey, Natural Resources Canada, Australia's Commonwealth Scientific and Industrial Research Organisation and others to support ontology creation and reasoning  well-understood OGC literals (GML, WKT), topological relationships (Simple Features, RCC8, DE-9IM), RDF and the SPARQL database query protocols.
+
+Recent research results in this area can be seen in the International Conference on Geospatial Semantics[44] and the Terra Cognita – Directions to the Geospatial Semantic Web[45] workshop at the International Semantic Web Conference.
+
+Implications of GIS in society[]
+Main articles: Neogeography and Public participation GIS
+With the popularization of GIS in decision making, scholars have begun to scrutinize the social and political implications of GIS.[46][47] GIS can  be mis to distort reality for individual and political gain.[48][49] It has been argued that the production, distribution, utilization, and representation of geographic information are largely related with the social context and has the potential to increase citizen trust in government.[50] Other related topics include discussion on copyright, privacy, and censorship. A more optimistic social approach to GIS adoption is to  it as a tool for public participation.
