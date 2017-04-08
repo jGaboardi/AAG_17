@@ -1781,3 +1781,314 @@ Iteration    Objective       Primal Inf.    Dual Inf.      Time
 
 Solved in 1104 iterations and 0.05 seconds
 Optimal objective  6.286748701e+02
+
+Gurobi 7.0.2 (mac64, Python) logging started Fri Apr  7 18:56:28 2017
+
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter MIPFocus to 2
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Changed value of parameter method to 0
+   Prev: -1  Min: -1  Max: 4  Default: -1
+Changed value of parameter TimeLimit to 1.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 4 rows, 4 columns and 8 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [3e+00, 9e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [2e+01, 1e+02]
+Presolve time: 0.02s
+Presolved: 4 rows, 4 columns, 8 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   6.100000e+01   3.999972e+06      0s
+       2    2.5100000e+02   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.04 seconds
+Optimal objective  2.510000000e+02
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter MIPFocus to 2
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Changed value of parameter method to 0
+   Prev: -1  Min: -1  Max: 4  Default: -1
+Changed value of parameter TimeLimit to 1.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 200 rows, 10000 columns and 20000 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [4e-05, 3e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+01, 2e+02]
+Presolve time: 0.03s
+Presolved: 200 rows, 10000 columns, 20000 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   5.270000e+03   9.999988e+09      0s
+    1104    6.2867487e+02   0.000000e+00   0.000000e+00      0s
+
+Solved in 1104 iterations and 0.07 seconds
+Optimal objective  6.286748701e+02
+
+Gurobi 7.0.2 (mac64, Python) logging started Sat Apr  8 10:04:38 2017
+
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter MIPFocus to 2
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Changed value of parameter method to 0
+   Prev: -1  Min: -1  Max: 4  Default: -1
+Changed value of parameter TimeLimit to 1.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 4 rows, 4 columns and 8 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [3e+00, 9e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [2e+01, 1e+02]
+Presolve time: 0.03s
+Presolved: 4 rows, 4 columns, 8 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   6.100000e+01   3.999972e+06      0s
+       2    2.5100000e+02   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.06 seconds
+Optimal objective  2.510000000e+02
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter MIPFocus to 2
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Changed value of parameter method to 0
+   Prev: -1  Min: -1  Max: 4  Default: -1
+Changed value of parameter TimeLimit to 1.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 200 rows, 10000 columns and 20000 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [3e-04, 3e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+01, 2e+02]
+Presolve time: 0.02s
+Presolved: 200 rows, 10000 columns, 20000 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   5.270000e+03   9.999988e+09      0s
+    1155    6.0707901e+02   0.000000e+00   0.000000e+00      0s
+
+Solved in 1155 iterations and 0.05 seconds
+Optimal objective  6.070790135e+02
+
+Gurobi 7.0.2 (mac64, Python) logging started Sat Apr  8 11:00:58 2017
+
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter MIPFocus to 2
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Changed value of parameter method to 0
+   Prev: -1  Min: -1  Max: 4  Default: -1
+Changed value of parameter TimeLimit to 1.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 4 rows, 4 columns and 8 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [3e+00, 9e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [2e+01, 1e+02]
+Presolve time: 0.02s
+Presolved: 4 rows, 4 columns, 8 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   6.100000e+01   3.999972e+06      0s
+       2    2.5100000e+02   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.03 seconds
+Optimal objective  2.510000000e+02
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter MIPFocus to 2
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Changed value of parameter method to 0
+   Prev: -1  Min: -1  Max: 4  Default: -1
+Changed value of parameter TimeLimit to 1.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 4 rows, 4 columns and 8 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [3e+00, 9e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [2e+01, 1e+02]
+Presolve time: 0.03s
+Presolved: 4 rows, 4 columns, 8 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   6.100000e+01   3.999972e+06      0s
+       2    2.5100000e+02   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.05 seconds
+Optimal objective  2.510000000e+02
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter MIPFocus to 2
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Changed value of parameter method to 0
+   Prev: -1  Min: -1  Max: 4  Default: -1
+Changed value of parameter TimeLimit to 1.0
+   Prev: 1e+100  Min: 0.0  Max: 1e+100  Default: 1e+100
+Optimize a model with 200 rows, 10000 columns and 20000 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [3e-04, 3e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+01, 2e+02]
+Presolve time: 0.02s
+Presolved: 200 rows, 10000 columns, 20000 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   5.270000e+03   9.999988e+09      0s
+    1155    6.0707901e+02   0.000000e+00   0.000000e+00      0s
+
+Solved in 1155 iterations and 0.05 seconds
+Optimal objective  6.070790135e+02
+
+Gurobi 7.0.2 (mac64, Python) logging started Sat Apr  8 13:45:50 2017
+
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter MIPFocus to 2
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Changed value of parameter method to 0
+   Prev: -1  Min: -1  Max: 4  Default: -1
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter MIPFocus to 2
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Changed value of parameter method to 0
+   Prev: -1  Min: -1  Max: 4  Default: -1
+Optimize a model with 4 rows, 4 columns and 8 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [3e+00, 9e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [2e+01, 1e+02]
+Presolve time: 0.01s
+Presolved: 4 rows, 4 columns, 8 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   6.100000e+01   3.999972e+06      0s
+       2    2.5100000e+02   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.04 seconds
+Optimal objective  2.510000000e+02
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter MIPFocus to 2
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Changed value of parameter method to 0
+   Prev: -1  Min: -1  Max: 4  Default: -1
+Optimize a model with 200 rows, 10000 columns and 20000 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [3e-04, 3e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+01, 2e+02]
+Presolve time: 0.02s
+Presolved: 200 rows, 10000 columns, 20000 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   5.270000e+03   9.999988e+09      0s
+    1155    6.0707901e+02   0.000000e+00   0.000000e+00      0s
+
+Solved in 1155 iterations and 0.03 seconds
+Optimal objective  6.070790135e+02
+
+Gurobi 7.0.2 (mac64, Python) logging started Sat Apr  8 14:01:02 2017
+
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter MIPFocus to 2
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Changed value of parameter method to 0
+   Prev: -1  Min: -1  Max: 4  Default: -1
+Optimize a model with 4 rows, 4 columns and 8 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [3e+00, 9e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [2e+01, 1e+02]
+Presolve time: 0.01s
+Presolved: 4 rows, 4 columns, 8 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   6.100000e+01   3.999972e+06      0s
+       2    2.5100000e+02   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.03 seconds
+Optimal objective  2.510000000e+02
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter MIPFocus to 2
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Changed value of parameter method to 0
+   Prev: -1  Min: -1  Max: 4  Default: -1
+Optimize a model with 200 rows, 10000 columns and 20000 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [3e-04, 3e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+01, 2e+02]
+Presolve time: 0.02s
+Presolved: 200 rows, 10000 columns, 20000 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   5.270000e+03   9.999988e+09      0s
+    1155    6.0707901e+02   0.000000e+00   0.000000e+00      0s
+
+Solved in 1155 iterations and 0.03 seconds
+Optimal objective  6.070790135e+02
+
+Gurobi 7.0.2 (mac64, Python) logging started Sat Apr  8 14:19:02 2017
+
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter MIPFocus to 2
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Changed value of parameter method to 0
+   Prev: -1  Min: -1  Max: 4  Default: -1
+Optimize a model with 4 rows, 4 columns and 8 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [3e+00, 9e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [2e+01, 1e+02]
+Presolve time: 0.02s
+Presolved: 4 rows, 4 columns, 8 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   6.100000e+01   3.999972e+06      0s
+       2    2.5100000e+02   0.000000e+00   0.000000e+00      0s
+
+Solved in 2 iterations and 0.04 seconds
+Optimal objective  2.510000000e+02
+Parameter OutputFlag unchanged
+   Value: 1  Min: 0  Max: 1  Default: 1
+Changed value of parameter MIPFocus to 2
+   Prev: 0  Min: 0  Max: 3  Default: 0
+Changed value of parameter method to 0
+   Prev: -1  Min: -1  Max: 4  Default: -1
+Optimize a model with 200 rows, 10000 columns and 20000 nonzeros
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [3e-04, 3e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+01, 2e+02]
+Presolve time: 0.02s
+Presolved: 200 rows, 10000 columns, 20000 nonzeros
+
+Iteration    Objective       Primal Inf.    Dual Inf.      Time
+       0    0.0000000e+00   5.270000e+03   9.999988e+09      0s
+    1155    6.0707901e+02   0.000000e+00   0.000000e+00      0s
+
+Solved in 1155 iterations and 0.03 seconds
+Optimal objective  6.070790135e+02
